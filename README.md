@@ -67,8 +67,8 @@ Currently pursuing a **Ph.D. in Computer Science and Engineering**, I enjoy turn
 
 ## 📫 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gom%20Taye-blue)](https://www.linkedin.com/in/gom-taye)  
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Gom%20Taye-brightgreen)](https://www.researchgate.net/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gom%20Taye-blue)](https://www.linkedin.com/in/gomtaye/)  
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Gom%20Taye-brightgreen)](https://www.researchgate.net/profile/Gom-Taye)  
 📧 **Email:** gom.taye[at]rgu.ac.in  
 
 ---
