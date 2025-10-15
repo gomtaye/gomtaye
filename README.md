@@ -27,8 +27,8 @@ Currently pursuing a **Ph.D. in Computer Science and Engineering**, I enjoy turn
 
 ## 📚 Ongoing Work  
 
-📘 *Book (in progress):* **“Blockchain-powered 6G: Security, Privacy, and Trust in Future Networks”**  
-📊 *Research Focus:* Deep learning-based intrusion detection for IoV networks  
+📘 *Book (Published):* **“Blockchain-powered 6G: Security, Privacy, and Trust in Future Networks”**  
+📊 *Research Focus:* Hybrid Deep Learning-Based Intrusion Detection Systems 
 🧩 *Dataset:* Realistic IDS – DoS and Spoofing Attack in IoV (CICIoV2024)  
 
 ---
