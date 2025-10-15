@@ -25,9 +25,16 @@ Currently pursuing a **Ph.D. in Computer Science and Engineering**, I enjoy turn
 
 ---
 
+## 📘 Publications & Books
+
+- **BLOCKCHAIN-POWERED 6G: Security, Privacy, and Trust in Future Network** (2025)  
+ Rakhi Mutha, Gom Taye, Prince Sood, Vandana  
+ Xoffencer International — 232 pages  
+ ISBN: 978-93-48116-48-2  
+ [Amazon](https://www.amazon.in/BLOCKCHAIN-POWERED-6G-SECURITY-PRIVACY-NETWORK/dp/B0DWKD9T48) • [Google Books](https://books.google.co.in/books/about/BLOCKCHAIN_POWERED_6G_SECURITY_PRIVACY_A.html?id=FS5EEQAAQBAJ&redir_esc=y) • [Flipkart](https://www.flipkart.com/blockchain-powered-6g-security-privacy-trust-future-network/p/itm022f4cd399f7e)
+---
 ## 📚 Ongoing Work  
 
-📘 *Book (Published):* **“Blockchain-powered 6G: Security, Privacy, and Trust in Future Networks”**  
 📊 *Research Focus:* Hybrid Deep Learning-Based Intrusion Detection Systems 
 🧩 *Dataset:* Realistic IDS – DoS and Spoofing Attack in IoV (CICIoV2024)  
 
